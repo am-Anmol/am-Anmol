@@ -28,15 +28,11 @@
 <br />
 <br />
 
+### GITHUB STATS
+
+
 <details>
-   <br>
-   <br>
-   <br>
-    <br>
-    <br>
-   
-   
-   
+ 
    <summary>am-Anmol GitHub Stats</summary>
 
   <img align="left" alt="am-Anmol's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=am-Anmol&show_icons=true&hide_border=true&&hide=prs,contribs" />
