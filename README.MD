@@ -22,8 +22,8 @@
 
 
 ### Languages and Tools:
-[<img align="left" alt="C" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" />][C ]
-[<img align="left" alt="C++" width="50px" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" />][C++]
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
 [<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html ]
 [<img align="left" alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
