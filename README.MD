@@ -1,4 +1,4 @@
-### Hi there, I'm ANMOL GUPTA 👋
+### Hi there, I'm ANMOL GUPTA <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ## I'm a soon CSE Enginner and Developer!!
 
