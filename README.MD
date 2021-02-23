@@ -1,5 +1,5 @@
-### Hi there, I'm ANMOL GUPTA <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+, I'm ANMOL GUPTA🎓 
 ## I'm a soon CSE Enginner and Developer!!
 
 - 🌱 I’m currently learning everything 
