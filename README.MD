@@ -1,5 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">, I'm ANMOL GUPTA🎓 
-## I'm a CSE Enginner and Developer!!
+## I'm a CSE Enginner and Developer!!  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=am-Anmol.am-Anmol)
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with some Tech Companies
@@ -13,6 +14,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
+
 
 ### Languages and Tools:
 
