@@ -22,7 +22,7 @@
 
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="Visual Studio Code" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/visual-studio-code-1.svg" />][vscode]
 [<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html ]
 [<img align="left" alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript ]
@@ -31,6 +31,12 @@
 [<img align="left" alt="GitHub" width="60px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github ] 
 [<img align="left" alt="C" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/c-.svg" />][C ] 
 [<img align="left" alt="C++" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/c.svg" />][C++ ] 
+[<img align="left" alt="Python" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/python-5.svg" />][Python]
+[<img align="left" alt="PYcharm" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/pycharm-1.svg" />][PYcharm] 
+[<img align="left" alt="Oracle" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/oracle-logo-1.svg" />][Oracle] 
+[<img align="left" alt="tableau" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/tableau-software.svg" />][tableau] 
+[<img align="left" alt="xampp" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/xampp.svg" />][xampp] 
+
 
 <br />
 <br />
@@ -57,5 +63,10 @@
 [sql ]: https://www.w3schools.com/sql/
 [git ]: https://git-scm.com/
 [github ]: https://github.com/
-
-
+[C ]: https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language.
+[C++ ]: https://www.codecademy.com/catalog/language/c-plus-plus?g_network=g&g_device=c&g_adid=435749871118&g_keyword=c%2B%2B%20programming&g_acctid=243-039-7011&g_adtype=search&g_adgroupid=102650142713&g_keywordid=kwd-12432420&g_campaign=ROW+Language%3A+Basic+-+Exact&g_campaignid=10074200771&utm_id=t_kwd-12432420:ag_102650142713:cp_10074200771:n_g:d_c&utm_term=c%2B%2B%20programming&utm_campaign=ROW%20Language%3A%20Basic%20-%20Exact&utm_source=google&utm_medium=paid-search&utm_content=435749871118&hsa_acc=2430397011&hsa_cam=10074200771&hsa_grp=102650142713&hsa_ad=435749871118&hsa_src=g&hsa_tgt=kwd-12432420&hsa_kw=c%2B%2B%20programming&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiA7NKBBhDBARIsAHbXCB7tn2ETwKAz0N7UUwlAm8j9eH4WDofaavXE-xVWcJItQet66kds5r8aAuvrEALw_wcB
+[Python ]: https://www.python.org/
+[PYcharm]: https://www.jetbrains.com/pycharm/
+[Oracle]: https://www.oracle.com/in/database/
+[tableau]: https://www.tableau.com/
+[xampp]: https://www.apachefriends.org/index.html
