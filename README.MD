@@ -35,15 +35,14 @@
 <br />
 
 ### GITHUB STATS
+<a href="https://github.com/am-Anmol/github-readme-stats">
+  <img align="center" alt="am-Anmol's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=am-Anmol&show_icons=true&hide_border=true&&hide=prs,contribs" />
+</a>
 
-
-<details>
+<a href="https://github.com/am-Anmol/github-readme-stats">
  
-   <summary>am-Anmol GitHub Stats</summary>
-
-  <img align="left" alt="am-Anmol's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=am-Anmol&show_icons=true&hide_border=true&&hide=prs,contribs" />
-
-</details>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=am-Anmol&layout=compact" />
+</a>
 
 [instagram]: https://instagram.com/anm0lgupta
 [linkedin]: https://www.linkedin.com/in/anmol-gupta-79b8321b2/
