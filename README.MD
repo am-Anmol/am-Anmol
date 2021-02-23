@@ -2,7 +2,7 @@
 ## I'm a CSE Enginner and Developer!!  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=am-Anmol.am-Anmol)
 <div>
-  <img align="left" alt="GIF" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/Github.gif" />
+  <img align="left" alt="GIF" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/Github1.gif" />
   
   </div>
   .  
