@@ -1,6 +1,11 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">, I'm ANMOL GUPTA🎓 
 ## I'm a CSE Enginner and Developer!!  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=am-Anmol.am-Anmol)
+<div>
+  <img align="left" alt="GIF" src="https://github.com/am-Anmol/am-Anmol/IMG/Github.gif" />
+  
+  </div>
+  .  
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with some Tech Companies
