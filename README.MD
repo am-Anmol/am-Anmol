@@ -29,7 +29,7 @@
 [<img align="left" alt="SQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql ]
 [<img align="left" alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git ]
 [<img align="left" alt="GitHub" width="60px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github ] 
-
+[<img align="left" alt="C" width="60px" src="https://pngtree.com/freepng/letter-c-logo-design_4060951.html" />][github ] 
 
 
 <br />
