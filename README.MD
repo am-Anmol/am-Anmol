@@ -56,6 +56,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=am-Anmol&layout=compact" />
 </a>
 
+<img src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/BADGES.gif" width="27px">
 
 
 [instagram]: https://instagram.com/anm0lgupta
