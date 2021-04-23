@@ -20,7 +20,7 @@
 
 <br />
 
-<div>
+
 ### Languages and Tools:
 [<img align="left" alt="C" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/c-.svg" />][C ] 
 [<img align="left" alt="C++" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/c.svg" />][C++ ] 
@@ -32,9 +32,9 @@
 <br />
 <br />
 <br />
-</div>
 
-<div>
+
+
 ### Tools:
 [<img align="left" alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git ]
 [<img align="left" alt="GitHub" width="60px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github ] 
@@ -43,7 +43,7 @@
 [<img align="left" alt="Oracle" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/oracle-logo-1.svg" />][Oracle] 
 [<img align="left" alt="tableau" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/tableau-software.svg" />][tableau] 
 [<img align="left" alt="xampp" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/xampp.svg" />][xampp] 
-</div>
+
 
 <br />
 <br />
