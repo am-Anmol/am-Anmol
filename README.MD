@@ -51,7 +51,7 @@
 
 ### GITHUB STATS
 <a href="https://github.com/am-Anmol/github-readme-stats">
-  <img align="center" alt="am-Anmol's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=am-Anmol&show_icons=true&hide_border=true" />
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=am-Anmol)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 <a href="https://github.com/am-Anmol/github-readme-stats">
