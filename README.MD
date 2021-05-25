@@ -34,7 +34,7 @@
 <br />
 
 ### Github stats:
-![Github stats](https://github-readme-stats.vercel.app/api?username=am-Anmol&theme=vuehighcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=am-Anmol&theme=vuehighcontrast&show_icons=true&count_private=true&theme=radical)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=am-Anmol&layout=compact)
 
 
