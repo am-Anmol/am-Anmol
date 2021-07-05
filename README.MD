@@ -37,6 +37,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=am-Anmol&theme=vuehighcontrast&show_icons=true&count_private=true&=radical)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=am-Anmol&layout=compact)
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=am-Anmol)
+[![trophy](https://github-profile-trophy.vercel.app/?username=am-Anmol)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Tools:
