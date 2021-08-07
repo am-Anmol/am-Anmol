@@ -1,74 +1,67 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">, I'm ANMOL GUPTA🎓 
-## I'm a CSE Enginner and Developer!!  
+<h1 align='center'> Hi! :wave:  I'm ANMOL GUPTA🎓</h1>
+<h3 align='center'><b>I'm a CSE Enginner and Software Developer!!</b></h3>
+
+
+<h3 align='center'><b>Connect with me</b></h3>
+<p align='center'> 
+<a href="https://www.linkedin.com/in/anmol-26"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/am_Anm0lGupta"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>
+<a href="https://instagram.com/anm0lgupta"><img height="30" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/instagram.png"></a>
+<a href="https://gitshowcase.com/am-anmol"><img height="30" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/world-wide-web.png"></a>&nbsp;
+</p>
+
+
+<h3 align='center'><i>Stay awesome!</i></h3> 
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=am-Anmol.am-Anmol)
-<div>
-  <img align="left" alt="GIF" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/Github.gif" />
-  
-  </div>
-  .  
+![](https://komarev.com/ghpvc/?username=am-Anmol&color=0366d6)
 
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with some Tech Companies
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to help me
+- 🌱 I’m currently Working and learning Laravel. 
+- 🔭 I’m looking to collaborate with some Tech Companies.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to help all.
+ ---
+<h3 align='center'><b>Languages and Tools</b></h3>
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">  
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=blue"> 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">  
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">  
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">  
+<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"> 
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"> 
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">  
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"> 
+</p>
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
-<br />
-
-
-### Languages and Tools:
-[<img align="left" alt="C" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/c-.svg" />][C ] 
-[<img align="left" alt="C++" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/c.svg" />][C++ ] 
-[<img align="left" alt="Python" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/python-5.svg" />][Python]
-[<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html ]
-[<img align="left" alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript ]
-[<img align="left" alt="SQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql ]
-<br />
-<br />
-<br />
-### Tools:
-[<img align="left" alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git ]
-[<img align="left" alt="GitHub" width="60px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github ] 
-[<img align="left" alt="Visual Studio Code" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/visual-studio-code-1.svg" />][vscode]
-[<img align="left" alt="PYcharm" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/pycharm-1.svg" />][PYcharm] 
-[<img align="left" alt="Oracle" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/oracle-logo-1.svg" />][Oracle] 
-[<img align="left" alt="tableau" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/tableau-software.svg" />][tableau] 
-[<img align="left" alt="xampp" width="60px" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/xampp.svg" />][xampp] 
-
-
-<br />
-<br />
-
-### Github stats:
-![Github stats](https://github-readme-stats.vercel.app/api?username=am-Anmol&theme=vuehighcontrast&show_icons=true&count_private=true&=radical)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=am-Anmol&layout=compact)
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=am-Anmol)
-[![trophy](https://github-profile-trophy.vercel.app/?username=am-Anmol)](https://github.com/ryo-ma/github-profile-trophy)
-<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=am-Anmol&theme=tokyonight" />
+ ---
+<h3 align='center'><b>Github Stats</b></h3>  
+ <p align='center'>
+    <img src="https://github-readme-stats.vercel.app/api?username=am-Anmol&theme=dark&show_icons=true&count_private=true&=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am-Anmol&layout=compact&theme=dark">
+  </p>
+<p align='center'>
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=am-Anmol&theme=dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=am-Anmol&theme=darkhub">
+  <img src="https://activity-graph.herokuapp.com/graph?username=am-Anmol&theme=react-dark">
+</p>
 
 
+ ---
 
 
-[instagram]: https://instagram.com/anm0lgupta
-[linkedin]: https://www.linkedin.com/in/anmol-gupta-79b8321b2/
-[facebook]: https://m.facebook.com/ANM0LGUPTA
-[vscode]: https://code.visualstudio.com
-[html ]: https://www.w3schools.com/html/
-[css ]: https://www.w3schools.com/css/
-[javascript ]: https://www.w3schools.com/js/DEFAULT.asp
-[sql ]: https://www.w3schools.com/sql/
-[git ]: https://git-scm.com/
-[github ]: https://github.com/
-[C ]: https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language.
-[C++ ]: https://www.codecademy.com/catalog/language/c-plus-plus?g_network=g&g_device=c&g_adid=435749871118&g_keyword=c%2B%2B%20programming&g_acctid=243-039-7011&g_adtype=search&g_adgroupid=102650142713&g_keywordid=kwd-12432420&g_campaign=ROW+Language%3A+Basic+-+Exact&g_campaignid=10074200771&utm_id=t_kwd-12432420:ag_102650142713:cp_10074200771:n_g:d_c&utm_term=c%2B%2B%20programming&utm_campaign=ROW%20Language%3A%20Basic%20-%20Exact&utm_source=google&utm_medium=paid-search&utm_content=435749871118&hsa_acc=2430397011&hsa_cam=10074200771&hsa_grp=102650142713&hsa_ad=435749871118&hsa_src=g&hsa_tgt=kwd-12432420&hsa_kw=c%2B%2B%20programming&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiA7NKBBhDBARIsAHbXCB7tn2ETwKAz0N7UUwlAm8j9eH4WDofaavXE-xVWcJItQet66kds5r8aAuvrEALw_wcB
-[Python ]: https://www.python.org/
-[PYcharm]: https://www.jetbrains.com/pycharm/
-[Oracle]: https://www.oracle.com/in/database/
-[tableau]: https://www.tableau.com/
-[xampp]: https://www.apachefriends.org/index.html
+<p align="center">
+  Made with :heart:
+  <br/>
+   <br/>
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
+
