@@ -1,6 +1,14 @@
 <h1 align='center'> Hi! :wave:  I'm ANMOL GUPTA🎓</h1>
-<h3 align='center'><b>I'm a CSE Enginner and Software Developer!!</b></h3>
 
+![](https://github.com/am-Anmol/am-Anmol/blob/main/IMG/header_.png)
+
+
+<p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=1E5C90&size=40&width=502&height=60&lines=I'm+a+CSE+Engineer;+Software+Developer;Open-Source+Contributor"> </p>
+<p align='center'>
+
+ I am _Anmol Gupta_. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from _Graphic Era (Deemed to be University)_. I am an experienced developer skilled in C , C++ , Python , Full Stack Development, Machine learning, Javascript and its frameworks and loves to contribute in open-source projects. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, fests and workshops and helped in building many communities from scratch.
+ 
+</p>
 
 <h3 align='center'><b>Connect with me</b></h3>
 <p align='center'> 
@@ -11,15 +19,18 @@
 </p>
 
 
-<h3 align='center'><i>Stay awesome!</i></h3> 
+<p align='center'><i>Stay awesome!</i></p> 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=am-Anmol.am-Anmol)
 ![](https://komarev.com/ghpvc/?username=am-Anmol&color=0366d6)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-- 🌱 I’m currently Working and learning Laravel. 
+- 🌱 I’m currently learning and working on Laravel and Vue.js. 
 - 🔭 I’m looking to collaborate with some Tech Companies.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to help all.
+- 😄 Pronouns: He/Him.
  ---
 <h3 align='center'><b>Languages and Tools</b></h3>
 <p>
@@ -49,14 +60,19 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am-Anmol&layout=compact&theme=dark">
   </p>
 <p align='center'>
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=am-Anmol&theme=dark" />
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=am-Anmol&theme=dark" />
   <img src="https://github-profile-trophy.vercel.app/?username=am-Anmol&theme=darkhub">
   <img src="https://activity-graph.herokuapp.com/graph?username=am-Anmol&theme=react-dark">
 </p>
 
-
  ---
 
+<details align='center'>
+ <summary><b>Deep Profile Summary</b></summary>
+ View Full Analysis
+ <a href="https://profile-summary-for-github.com/user/am-anmol">here</a>
+ <img src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/GithubStats.jpg">  
+</details>
 
 <p align="center">
   Made with :heart:
