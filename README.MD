@@ -61,7 +61,7 @@
 <h3 align='center'><b>Github Stats</b></h3>  
  <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api?username=am-Anmol&theme=dark&show_icons=true&count_private=true&=radical">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am-Anmol&layout=compact&theme=dark">
+   
   </p>
 <p align='center'>
   <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=am-Anmol&theme=dark" />
