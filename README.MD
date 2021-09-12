@@ -11,7 +11,12 @@
 Currently working as a `Software Developer Intern` at <a href="https://coloredcow.com">ColoredCow</a> on an internal open-source product called the <a href="https://github.com/ColoredCow/portal">Employee Portal</a>.
 The following are some of my most notable contributions:
  - <a href="https://github.com/ColoredCow/portal/pull/846">University and University Alias Mapping with the Application of applicant.</a>
- 
+ - <a href="https://github.com/ColoredCow/portal/pull/846">New Job Opportunities are also displayed on the ColoredCow website.</a>
+ - Clearing Coding Standards:
+    - <a href="https://github.com/ColoredCow/portal/pull/870">Coding Standards / PHP CS</a>
+    - <a href="https://github.com/ColoredCow/portal/pull/860">Coding Standards / ES Lint</a>
+    - <a href="https://github.com/ColoredCow/portal/pull/897">Coding Standards / Larastan</a>
+ - <a href="https://github.com/ColoredCow/portal/pull/963">Updation of project documentation for prerequisites and installation guide.</a>
 </p>
 
 <h3 align='center'><b>Connect with me</b></h3>
