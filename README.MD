@@ -13,9 +13,9 @@ The following are some of my most notable contributions:
  - <a href="https://github.com/ColoredCow/portal/pull/846">University and University Alias Mapping with the Application of applicant.</a>
  - <a href="https://github.com/ColoredCow/portal/pull/846">New Job Opportunities are also displayed on the ColoredCow website.</a>
  - Clearing Coding Standards:
-    - <a href="https://github.com/ColoredCow/portal/pull/870">Coding Standards / PHP CodeSniffer</a>
-    - <a href="https://github.com/ColoredCow/portal/pull/860">Coding Standards / ES Lint</a>
-    - <a href="https://github.com/ColoredCow/portal/pull/897">Coding Standards / Larastan</a>
+    - <a href="https://github.com/ColoredCow/portal/pull/870">Coding Standards / PHP CodeSniffer </a>
+    - <a href="https://github.com/ColoredCow/portal/pull/860">Coding Standards / ES Lint </a>
+    - <a href="https://github.com/ColoredCow/portal/pull/897">Coding Standards / Larastan </a>
  - <a href="https://github.com/ColoredCow/portal/pull/963">Updation of project documentation for prerequisites and installation guide.</a>
 </p>
 
