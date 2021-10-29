@@ -91,6 +91,6 @@ The following are some of my most notable contributions:
   Made with :heart:
   <br/>
    <br/>
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="22%">
 </p>
 
