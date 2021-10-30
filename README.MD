@@ -1,4 +1,4 @@
-<h1 align='center'> Hi! :wave:  I'm ANMOL GUPTA🎓</h1>
+<h1 align='center'> Hi! :wave:  I'm ANMOL GUPTA🎓 </h1>
 
 ![](https://github.com/am-Anmol/am-Anmol/blob/main/IMG/header_.png)
 
