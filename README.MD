@@ -39,7 +39,7 @@ The following are some of my most notable contributions:
 - 🔭 I’m looking to work with Tech Companies.
 - 🥅 2021 Goals: Contribute more to Open-Source projects.
 - ⚡ Fun fact: I love to help.
-- 😄 Pronouns: He/Him.
+- 😄 Pronouns: He/Him. 
  ---
 <h3 align='center'><b>Languages and Tools</b></h3>
 <p>
@@ -81,7 +81,8 @@ The following are some of my most notable contributions:
  ---
 
 <details align='center'>
- <summary><b>Deep Profile Summary</b></summary>
+ <summary><b>
+Profile Summary</b></summary>
  View Full Analysis
  <a href="https://profile-summary-for-github.com/user/am-anmol">here</a>
  <img src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/GithubStats.jpg">  
