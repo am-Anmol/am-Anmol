@@ -7,16 +7,6 @@
 <p align='center'>
 
  I am _Anmol Gupta_. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from _Graphic Era (Deemed to be University)_. I am an experienced developer skilled in C , C++ , Python , Full Stack Development, Machine learning, Javascript and its frameworks and loves to contribute in open-source projects. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to development clubs, fests and workshops and helped in building many communities from scratch.
-
-Currently working as a `Software Developer Intern` at <a href="https://coloredcow.com">ColoredCow</a> on an internal open-source product called the <a href="https://github.com/ColoredCow/portal">Employee Portal</a>.
-The following are some of my most notable contributions:
- - <a href="https://github.com/ColoredCow/portal/pull/846">University and University Alias Mapping with the Application of applicant.</a>
- - <a href="https://github.com/ColoredCow/portal/pull/846">New Job Opportunities are also displayed on the ColoredCow website.</a>
- - Clearing Coding Standards:
-    - <a href="https://github.com/ColoredCow/portal/pull/870">Coding Standards / PHP CodeSniffer </a>
-    - <a href="https://github.com/ColoredCow/portal/pull/860">Coding Standards / ES Lint </a>
-    - <a href="https://github.com/ColoredCow/portal/pull/897">Coding Standards / Larastan </a>
- - <a href="https://github.com/ColoredCow/portal/pull/963">Updation of project documentation for prerequisites and installation guide.</a>
 </p>
 
 <h3 align='center'><b>Connect with me</b></h3>
