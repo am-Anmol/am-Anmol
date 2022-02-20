@@ -3,7 +3,7 @@
 ![](https://github.com/am-Anmol/am-Anmol/blob/main/IMG/header_.png)
 
 
-<p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=1E5C90&size=40&width=600&height=60&lines=I'm+a+CSE+Engineer;+Software+Developer;Open-Source+Contributor"> </p>
+<p align='center'><img src="https://readme-typing-svg.herokuapp.com?color=1E5C90&size=40&width=600&height=60&lines=I'm+a+CSE+Engineer;+Software+Engineer;Open-Source+Contributor"> </p>
 <p align='center'>
 
  I am _Anmol Gupta_. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from _Graphic Era (Deemed to be University)_. I am an experienced developer skilled in C , C++ , Python , Full Stack Development, Machine learning, Javascript and its frameworks and loves to contribute in open-source projects. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to development clubs, fests and workshops and helped in building many communities from scratch.
