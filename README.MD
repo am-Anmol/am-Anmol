@@ -17,7 +17,6 @@
 <a href="https://gitshowcase.com/am-anmol"><img height="30" src="https://github.com/am-Anmol/am-Anmol/blob/main/IMG/world-wide-web.png"></a>&nbsp;
 </p>
 
-
 <p align='center'><i>Stay awesome!</i></p> 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=am-Anmol.am-Anmol)
