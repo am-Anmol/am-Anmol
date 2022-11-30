@@ -24,7 +24,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-- 🌱 I’m currently exploring and working on Python, Angular.JS. 
+- 🌱 I’m currently exploring and working on Python, Flask, Linux. 
 - 🔭 I’m looking to work with Tech Companies.
 - 🥅 2022 Goals: Converting business requirements into technical solutions.
 - ⚡ Fun fact: I love to help.
